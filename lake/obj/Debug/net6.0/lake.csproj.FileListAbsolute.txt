@@ -1,0 +1,15 @@
+C:\Users\robli\Desktop\VSC 22\lake\bin\Debug\net6.0\lake.exe
+C:\Users\robli\Desktop\VSC 22\lake\bin\Debug\net6.0\lake.deps.json
+C:\Users\robli\Desktop\VSC 22\lake\bin\Debug\net6.0\lake.runtimeconfig.json
+C:\Users\robli\Desktop\VSC 22\lake\bin\Debug\net6.0\lake.dll
+C:\Users\robli\Desktop\VSC 22\lake\bin\Debug\net6.0\lake.pdb
+C:\Users\robli\Desktop\VSC 22\lake\obj\Debug\net6.0\lake.csproj.AssemblyReference.cache
+C:\Users\robli\Desktop\VSC 22\lake\obj\Debug\net6.0\lake.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\robli\Desktop\VSC 22\lake\obj\Debug\net6.0\lake.AssemblyInfoInputs.cache
+C:\Users\robli\Desktop\VSC 22\lake\obj\Debug\net6.0\lake.AssemblyInfo.cs
+C:\Users\robli\Desktop\VSC 22\lake\obj\Debug\net6.0\lake.csproj.CoreCompileInputs.cache
+C:\Users\robli\Desktop\VSC 22\lake\obj\Debug\net6.0\lake.dll
+C:\Users\robli\Desktop\VSC 22\lake\obj\Debug\net6.0\refint\lake.dll
+C:\Users\robli\Desktop\VSC 22\lake\obj\Debug\net6.0\lake.pdb
+C:\Users\robli\Desktop\VSC 22\lake\obj\Debug\net6.0\lake.genruntimeconfig.cache
+C:\Users\robli\Desktop\VSC 22\lake\obj\Debug\net6.0\ref\lake.dll
