@@ -1,0 +1,15 @@
+C:\Users\robli\Desktop\VSC 22\ABCDEFyou_tadadam_that_song\bin\Debug\net6.0\ABCDEFyou_tadadam_that_song.exe
+C:\Users\robli\Desktop\VSC 22\ABCDEFyou_tadadam_that_song\bin\Debug\net6.0\ABCDEFyou_tadadam_that_song.deps.json
+C:\Users\robli\Desktop\VSC 22\ABCDEFyou_tadadam_that_song\bin\Debug\net6.0\ABCDEFyou_tadadam_that_song.runtimeconfig.json
+C:\Users\robli\Desktop\VSC 22\ABCDEFyou_tadadam_that_song\bin\Debug\net6.0\ABCDEFyou_tadadam_that_song.dll
+C:\Users\robli\Desktop\VSC 22\ABCDEFyou_tadadam_that_song\bin\Debug\net6.0\ABCDEFyou_tadadam_that_song.pdb
+C:\Users\robli\Desktop\VSC 22\ABCDEFyou_tadadam_that_song\obj\Debug\net6.0\ABCDEFyou_tadadam_that_song.csproj.AssemblyReference.cache
+C:\Users\robli\Desktop\VSC 22\ABCDEFyou_tadadam_that_song\obj\Debug\net6.0\ABCDEFyou_tadadam_that_song.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\robli\Desktop\VSC 22\ABCDEFyou_tadadam_that_song\obj\Debug\net6.0\ABCDEFyou_tadadam_that_song.AssemblyInfoInputs.cache
+C:\Users\robli\Desktop\VSC 22\ABCDEFyou_tadadam_that_song\obj\Debug\net6.0\ABCDEFyou_tadadam_that_song.AssemblyInfo.cs
+C:\Users\robli\Desktop\VSC 22\ABCDEFyou_tadadam_that_song\obj\Debug\net6.0\ABCDEFyou_tadadam_that_song.csproj.CoreCompileInputs.cache
+C:\Users\robli\Desktop\VSC 22\ABCDEFyou_tadadam_that_song\obj\Debug\net6.0\ABCDEFyou_tadadam_that_song.dll
+C:\Users\robli\Desktop\VSC 22\ABCDEFyou_tadadam_that_song\obj\Debug\net6.0\refint\ABCDEFyou_tadadam_that_song.dll
+C:\Users\robli\Desktop\VSC 22\ABCDEFyou_tadadam_that_song\obj\Debug\net6.0\ABCDEFyou_tadadam_that_song.pdb
+C:\Users\robli\Desktop\VSC 22\ABCDEFyou_tadadam_that_song\obj\Debug\net6.0\ABCDEFyou_tadadam_that_song.genruntimeconfig.cache
+C:\Users\robli\Desktop\VSC 22\ABCDEFyou_tadadam_that_song\obj\Debug\net6.0\ref\ABCDEFyou_tadadam_that_song.dll

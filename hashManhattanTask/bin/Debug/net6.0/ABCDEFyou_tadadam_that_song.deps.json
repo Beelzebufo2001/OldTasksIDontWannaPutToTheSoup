@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ABCDEFyou_tadadam_that_song/1.0.0": {
+        "runtime": {
+          "ABCDEFyou_tadadam_that_song.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ABCDEFyou_tadadam_that_song/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
