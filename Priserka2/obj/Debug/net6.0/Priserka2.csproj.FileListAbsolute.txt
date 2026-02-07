@@ -1,0 +1,15 @@
+C:\Users\robli\Desktop\VSC 22\Priserka2\bin\Debug\net6.0\Priserka2.exe
+C:\Users\robli\Desktop\VSC 22\Priserka2\bin\Debug\net6.0\Priserka2.deps.json
+C:\Users\robli\Desktop\VSC 22\Priserka2\bin\Debug\net6.0\Priserka2.runtimeconfig.json
+C:\Users\robli\Desktop\VSC 22\Priserka2\bin\Debug\net6.0\Priserka2.dll
+C:\Users\robli\Desktop\VSC 22\Priserka2\bin\Debug\net6.0\Priserka2.pdb
+C:\Users\robli\Desktop\VSC 22\Priserka2\obj\Debug\net6.0\Priserka2.csproj.AssemblyReference.cache
+C:\Users\robli\Desktop\VSC 22\Priserka2\obj\Debug\net6.0\Priserka2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\robli\Desktop\VSC 22\Priserka2\obj\Debug\net6.0\Priserka2.AssemblyInfoInputs.cache
+C:\Users\robli\Desktop\VSC 22\Priserka2\obj\Debug\net6.0\Priserka2.AssemblyInfo.cs
+C:\Users\robli\Desktop\VSC 22\Priserka2\obj\Debug\net6.0\Priserka2.csproj.CoreCompileInputs.cache
+C:\Users\robli\Desktop\VSC 22\Priserka2\obj\Debug\net6.0\Priserka2.dll
+C:\Users\robli\Desktop\VSC 22\Priserka2\obj\Debug\net6.0\refint\Priserka2.dll
+C:\Users\robli\Desktop\VSC 22\Priserka2\obj\Debug\net6.0\Priserka2.pdb
+C:\Users\robli\Desktop\VSC 22\Priserka2\obj\Debug\net6.0\Priserka2.genruntimeconfig.cache
+C:\Users\robli\Desktop\VSC 22\Priserka2\obj\Debug\net6.0\ref\Priserka2.dll
